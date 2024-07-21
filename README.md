@@ -12,4 +12,5 @@
 7. 폴 그레이엄 에세이 [번역본](https://docs.google.com/spreadsheets/u/0/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqVDzw/htmlview) 하루에 1편씩 읽어보기 ->
 	1. [새로운 아이디어를 얻는 방법](https://docs.google.com/document/d/1PLQq2lVGiA7Zyj2EbDpFIPNSNmMOZWsiMouuhMdQZ7E/edit?usp=drivesdk)
 	2. [KO - What I've Learned from Users](https://docs.google.com/document/d/1N9P9KFXl4S7VO7lfPCqhAq1L_AI1lc3rfJbGR_0zQdI/edit?usp=drivesdk)
- 3. [Default Alive or Default Dead?](https://docs.google.com/document/d/1Q2Blu78iTjAJ7-HiCQOHNZFQwiCdDwqigLfV4_zu6GY/edit?usp=drivesdk)
+        3. [Default Alive or Default Dead?](https://docs.google.com/document/d/1Q2Blu78iTjAJ7-HiCQOHNZFQwiCdDwqigLfV4_zu6GY/edit?usp=drivesdk)
+        4. [스타트업을 시작하고 싶으신가요? 와이콤비네이터의 투자를 받아보세요.](https://docs.google.com/document/d/1jQkUHXn02y8g1HJOiPMqTbc4VPDs3zC-ogh92wQV0Ao/edit?usp=drivesdk)
