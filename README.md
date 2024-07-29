@@ -18,4 +18,11 @@
 	2. [KO - What I've Learned from Users](https://docs.google.com/document/d/1N9P9KFXl4S7VO7lfPCqhAq1L_AI1lc3rfJbGR_0zQdI/edit?usp=drivesdk)
 	3. [Default Alive or Default Dead?](https://docs.google.com/document/d/1Q2Blu78iTjAJ7-HiCQOHNZFQwiCdDwqigLfV4_zu6GY/edit?usp=drivesdk)
 	4. [스타트업을 시작하고 싶으신가요? 와이콤비네이터의 투자를 받아보세요.](https://docs.google.com/document/d/1jQkUHXn02y8g1HJOiPMqTbc4VPDs3zC-ogh92wQV0Ao/edit?usp=drivesdk)
-8. 매일 10분씩 사이드 프로젝트하기
+8. 매일 10분씩 사이드 프로젝트하기 -> ✅
+   - [하, 일주일짜리 사전과제 좀! 그만!](https://velog.io/@laeyoung/%ED%95%98-%EC%9D%BC%EC%A3%BC%EC%9D%BC%EC%A7%9C%EB%A6%AC-%EC%82%AC%EC%A0%84%EA%B3%BC%EC%A0%9C-%EC%A2%80-%EA%B7%B8%EB%A7%8C)
+   - [FE플래닛](https://github.com/Laeyoung/fe-planet)
+   - 지하철에서 폰으로 개발하다보니, 한계가 있긴 했다.
+9. 김창준님의 <함께 자라기> 책에 나온 블로그 글 본문 백업
+   - 이글루스 서비스 종료로 책 본문에 나온 블로그 글 링크가 깨짐
+   - [Wayback Machine](https://web.archive.org/web/20230615104306/http://agile.egloos.com/)에 있는 글을 가지고 깨진 블로그 글을 보는 페이지 만들기
+   - 김창준님이 다시 블로그 해서 복구 하시면, 그 블로그로 redirect 하기
