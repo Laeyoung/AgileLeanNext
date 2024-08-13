@@ -19,7 +19,7 @@
 	2. [KO - What I've Learned from Users](https://docs.google.com/document/d/1N9P9KFXl4S7VO7lfPCqhAq1L_AI1lc3rfJbGR_0zQdI/edit?usp=drivesdk)
 	3. [Default Alive or Default Dead?](https://docs.google.com/document/d/1Q2Blu78iTjAJ7-HiCQOHNZFQwiCdDwqigLfV4_zu6GY/edit?usp=drivesdk)
 	4. [스타트업을 시작하고 싶으신가요? 와이콤비네이터의 투자를 받아보세요.](https://docs.google.com/document/d/1jQkUHXn02y8g1HJOiPMqTbc4VPDs3zC-ogh92wQV0Ao/edit?usp=drivesdk)
-        5. https://docs.google.com/document/d/17kAfF5GcLtDAua7S7oQW8tZYMXNmbMyn/edit
+ 	5. [다섯 명의 창립자](https://docs.google.com/document/d/17kAfF5GcLtDAua7S7oQW8tZYMXNmbMyn/edit)
 8. 매일 10분씩 사이드 프로젝트하기 -> ✅
    - [하, 일주일짜리 사전과제 좀! 그만!](https://velog.io/@laeyoung/%ED%95%98-%EC%9D%BC%EC%A3%BC%EC%9D%BC%EC%A7%9C%EB%A6%AC-%EC%82%AC%EC%A0%84%EA%B3%BC%EC%A0%9C-%EC%A2%80-%EA%B7%B8%EB%A7%8C)
    - [FE플래닛](https://github.com/Laeyoung/fe-planet)
