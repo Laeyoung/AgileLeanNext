@@ -7,6 +7,9 @@
 - ❌ - 하루 빠트리거나 중간에 포기 했을 경우
 - ⭐ - 채택 되어서 계속 유지하고 있는 것
 
+## 2025
+1. https://www.deeplearning.ai/courses/generative-ai-for-software-development/ 강의 듣기 (15시간 분량) -> 
+
 ## 2024
 1. 폰 거실에 놓고 잠들기 -> ✅,⭐
 2. 탄산 안마시기 -> ❌
