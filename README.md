@@ -8,7 +8,8 @@
 - ⭐ - 채택 되어서 계속 유지하고 있는 것
 
 ## 2025
-1. https://www.deeplearning.ai/courses/generative-ai-for-software-development/ 강의 듣기 (15시간 분량) -> 
+1. 사용자 스토리 맵 만들어보기 -> 
+2. (예약) https://www.deeplearning.ai/courses/generative-ai-for-software-development/ 강의 듣기 (15시간 분량) -> 
 
 ## 2024
 1. 폰 거실에 놓고 잠들기 -> ✅,⭐
