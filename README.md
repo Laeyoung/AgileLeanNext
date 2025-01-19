@@ -8,8 +8,9 @@
 - ⭐ - 채택 되어서 계속 유지하고 있는 것
 
 ## 2025
-1. 영어 공부 15분씩 -> 
-2. (예약) https://www.deeplearning.ai/courses/generative-ai-for-software-development/ 강의 듣기 (15시간 분량) -> 
+1. 영어 공부 15분씩 -> ✅, ⭐ (운동, 지하철, 샤워, 운전 4개 중 하나 할 때 같이 안하면 안하게 됨)
+2. 일주일에 4번 헬스장 가기 (바쁘면, 바로 돌아와도 OK) -> 
+3. (예약) https://www.deeplearning.ai/courses/generative-ai-for-software-development/ 강의 듣기 (15시간 분량) -> 
 
 ## 2024
 1. 폰 거실에 놓고 잠들기 -> ✅,⭐
