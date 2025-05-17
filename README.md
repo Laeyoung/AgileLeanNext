@@ -19,6 +19,7 @@
     2. [Pikmin Spotter](https://pikmin-spotter.vercel.app/)
     3. [날씨 알려주는 옷차림](https://costume-weather.mytinypage.xyz/)
     4. [hitcheeee](https://studio--hitcheeee.us-central1.hosted.app/)
+8. 바이브 비스타 코딩 클럽
 
 ## 2024
 1. 폰 거실에 놓고 잠들기 -> ✅,⭐
