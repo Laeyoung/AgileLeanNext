@@ -16,11 +16,11 @@
 6. 일찍 출근하기 -> ✅, ⭐
 7. AI를 써서 10x 가능한지 실험 -> ✅, ⭐ (코딩 자체는 가능해보임)
 	1. [TopGles](https://topgles.vercel.app/)
-  2. [Pikmin Spotter](https://pikmin-spotter.vercel.app/)
-  3. [날씨 알려주는 옷차림](https://costume-weather.mytinypage.xyz/)
-  4. [hitcheeee](https://studio--hitcheeee.us-central1.hosted.app/)
+    2. [Pikmin Spotter](https://pikmin-spotter.vercel.app/)
+    3. [날씨 알려주는 옷차림](https://costume-weather.mytinypage.xyz/)
+    4. [hitcheeee](https://studio--hitcheeee.us-central1.hosted.app/)
 8. 바이브 비스타 코딩 클럽 -> ✅ (운영 중)
-  - [홈페이지](https://vvcc.vercel.app/)
+   - [홈페이지](https://vvcc.vercel.app/)
 
 ## 2024
 1. 폰 거실에 놓고 잠들기 -> ✅,⭐
