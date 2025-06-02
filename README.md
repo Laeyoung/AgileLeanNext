@@ -15,7 +15,7 @@
 5. 더하면, 빼기 -> (애매하다)
 6. 일찍 출근하기 -> ✅, ⭐
 7. AI를 써서 10x 가능한지 실험 -> ✅, ⭐ (코딩 자체는 가능해보임)
-	1. [TopGles](https://topgles.vercel.app/)
+    1. [TopGles](https://topgles.vercel.app/)
     2. [Pikmin Spotter](https://pikmin-spotter.vercel.app/)
     3. [날씨 알려주는 옷차림](https://costume-weather.mytinypage.xyz/)
     4. [hitcheeee](https://studio--hitcheeee.us-central1.hosted.app/)
